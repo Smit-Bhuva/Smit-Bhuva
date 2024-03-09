@@ -2,9 +2,6 @@
 <h3 align="center">Data Scientist with Specialization in Agriculture</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SmitBhuva-99&label=Profile%20views&color=0e75b6&style=flat" alt="SmitBhuva-99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SmitBhuva-99&theme=" alt="SmitBhuva-99" /></a> </p>
-
-- 🔭 I’m currently working on **Machine Learning Projects**
 - 🤝 I’m looking for help with **Deep Learning**
 - 🌱 I’m currently learning **Machine learning, Deep learning, AI**
 - 💬 Ask me about **Python, PostgreSQL, HTML, CSS**
