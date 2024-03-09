@@ -35,4 +35,8 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SmitBhuva-99&theme=blue-green" alt="SmitBhuva-99" /></p>
 
+<div align="center">
+<a href="https://github.com/SmitBhuva-99">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SmitBhuva-99&theme=blue_green" height="180em" />
+</div>
 
