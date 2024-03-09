@@ -44,6 +44,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SmitBhuva-99&theme=blue_green" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SmitBhuva-99&theme=blue_green" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SmitBhuva-99&theme=blue_green" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SmitBhuva-99&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SmitBhuva-99&theme=blue_green" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SmitBhuva-99&theme=blue_green" height="180em" />
 </div>
