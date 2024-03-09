@@ -2,6 +2,7 @@
 <h3 align="center">Data Scientist with Specialization in Agriculture</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SmitBhuva-99&label=Profile%20views&color=0e75b6&style=flat" alt="SmitBhuva-99" /> </p>
 
+- 🔭 I’m currently working on **Machine Learning Projects**
 - 🤝 I’m looking for help with **Deep Learning**
 - 🌱 I’m currently learning **Machine learning, Deep learning, AI**
 - 💬 Ask me about **Python, PostgreSQL, HTML, CSS**
@@ -33,10 +34,16 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitBhuva-99&hide_progress=true&theme=blue-green" alt=SmitBhuva-99 />
 
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SmitBhuva-99&show_icons=true&locale=en&theme=blue-green" alt="SmitBhuva-99" /></p>
+
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SmitBhuva-99&theme=blue-green" alt="SmitBhuva-99" /></p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/SmitBhuva-99">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SmitBhuva-99&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SmitBhuva-99&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SmitBhuva-99&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SmitBhuva-99&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SmitBhuva-99&theme=blue_green" height="180em" />
 </div>
-
