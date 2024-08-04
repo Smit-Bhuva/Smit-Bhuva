@@ -6,7 +6,7 @@
 - 🤝 I’m looking for help with **Deep Learning**
 - 🌱 I’m currently learning **Machine learning, Deep learning, AI**
 - 💬 Ask me about **Python, PostgreSQL, HTML, CSS**
-- 📫 How to reach me **smitbhuva911@gmail.com**
+- 📫 How to reach me **202319027@daiict.ac.in**
 
 <div> <a href="https://www.linkedin.com/in/smit-bhuva-a6349625a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/SmitBhuva-99" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
